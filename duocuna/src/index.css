@@ -1,0 +1,62 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.blanco {
+  color: #FFFFFF;
+}
+
+.amarillo{
+  color: #F7B512;
+}
+
+.inicio {
+  background-color: #042E54;
+  height: auto !important;
+  min-height: 812px;
+}
+
+.centrar {
+  display: inline-table;
+}
+
+.anchoForm {
+  width: 250px;
+}
+
+.images {
+  display: table-caption;
+  margin-left: 89px;
+  margin-top: 66px;
+  margin-bottom: 60px;
+}
+
+#logoDuocuna{
+  margin-bottom: 90px;
+}
+
+.izq{
+  text-align: initial;
+}
+
+.navBar{
+  background-color: #042E54;
+  height: 60px;
+  padding-top: 10px;
+}
+
+.accordionMargin{
+  width: 320px;
+  margin-left: 26px;
+  margin-top: 26px;
+}
