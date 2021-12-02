@@ -191,6 +191,12 @@ const FormNewUsuario = () => {
         </Button>
       </Form>
 
+      <div className="amarillo">
+        <br />
+        Aún no tienes registro oficial?
+        <br />
+        <a className="amarillo" href="https://campusvirtual.duoc.cl/"> Dirígete a la sección de consejeros de carrera en el AVA para más información </a>
+      </div>
 
     </div>
 
