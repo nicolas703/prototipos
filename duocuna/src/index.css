@@ -58,5 +58,40 @@ code {
 .accordionMargin{
   width: 320px;
   margin-left: 26px;
-  margin-top: 26px;
+  margin-top: 26px !important;
+}
+
+.data{
+  font-size: 12px;
+  text-align: initial;
+}
+
+.buttonNuevoHijo{
+  margin-top: 30px !important; 
+  border-radius: 100% !important;
+}
+
+.buttonSalir{
+  margin-top: 30px !important; 
+}
+
+.buttonRegistrar{
+  margin-top: 240px;
+}
+
+.formMargin{
+  width: 320px;
+  margin-top: 26px !important;
+}
+
+.grupoBotones{
+  padding-left: 142px;
+  display: table-caption;
+}
+
+.titulos{
+  margin-top: 20px;
+  color: #F7B512;
+  font-family: ui-monospace;
+  text-shadow: 1px 1px 3px #333;
 }
